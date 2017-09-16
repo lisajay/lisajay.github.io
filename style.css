@@ -4,6 +4,8 @@ h1 {
   font-size: 60px;
 }
 
-#remark {
-  color: lime;
+.remark {
+  color: DarkSlateBlue;
+  text-transform: capitalize;
+  font-family: Helvetica;
 }
